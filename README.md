@@ -44,7 +44,7 @@
 ---
 
 # 📫 Contato
-📩 **Email:** [mxlscxxx@gmail.com](mailto:mxlscxxx@gmail.com)  
+📩 **Email:** [kmdev.cmd@gmail.com](mailto:kmdev.cmd@gmail.com)  
 💬 **WhatsApp:** [Clique aqui](https://wa.me/+5513974140538)  
 🖥️ **Discord:** [kmdev](https://discordapp.com/users/586608984560238595)
 
