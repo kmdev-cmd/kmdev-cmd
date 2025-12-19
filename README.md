@@ -1,6 +1,7 @@
 <!--
 Minimal README — KmDev
-Clean | Animated | Focused
+Inspired by Tayyaba Tabassum
+Clean | Professional | Focused
 -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A1AFF&height=110&section=header"/>
@@ -8,53 +9,60 @@ Clean | Animated | Focused
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&typeSpeed=40&pause=400&color=0A1AFF&center=true&vCenter=true&width=520&lines=KmDev;Python+%7C+Developer;Menos+clique%2C+mais+script" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&typeSpeed=40&pause=400&color=0A1AFF&center=true&vCenter=true&width=700&lines=KmDev;Python+Developer;Automation+%7C+Backend+in+Progress" />
 </a>
 
 <br>
 
-<sub>Estudante • Programador Python • Automação</sub>
+<sub>Estudante • Programador Python • Automação de Processos</sub>
 
 <br><br>
-
 
 </div>
 
 ---
 
-## Sobre
-Focado em **Python e automação**.  
-Transformo tarefas repetitivas em scripts simples, rápidos e úteis.
+## 👨‍💻 Sobre mim
+- Desenvolvedor focado em **Python e automação**
+- Crio scripts para **reduzir tarefas repetitivas**
+- Interesse em **backend e sistemas úteis no mundo real**
+- Estudante e programador em constante evolução
 
 ---
 
-## Stack
+## 🛠 Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,html,css,flask,django,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,bash,html,css,git,github,vscode&perline=5" />
 </p>
 
-<sub align="center">
-Django em progresso • Figma básico • PySide6 • Selenium • BeautifulSoup
-</sub>
+---
+
+## 🚀 Projetos em Destaque
+- **PDFinder** — buscador rápido de PDFs gratuitos
+- **Rhodium** — automação e organização de tarefas no PC  
+  <sub>(Sistema local, sem backend conectado)</sub>
 
 ---
 
-## Projetos
-
-- **PDFinder** — buscador rápido de PDFs gratuitos  
-- **Rhodium** — maior praticidade em tarefas no PC (Sistema de dados não conectado)
-
----
-
-## Estudando agora
-- HTML, CSS & JS (intermediário)  
-- Django & Flask    
+## 📚 Estudando agora
+- Django (backend)
+- HTML, CSS e JavaScript (intermediário)
+- Boas práticas de código e estruturação de projetos
 
 ---
 
-## Contato
+## 📊 GitHub Stats
+<p align="center">
+    <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kmdev-cmd&bg_color=282c34&color=0A1AFF&line=0A1AFF&point=FFFFFF&area=true&hide_border=true"
+  />
+</p>
 
+
+---
+
+## 🌐 Contato
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-0A1AFF?style=flat&logo=gmail&logoColor=white)](mailto:kmdev.cmd@gmail.com)
@@ -64,5 +72,7 @@ Django em progresso • Figma básico • PySide6 • Selenium • BeautifulSoup
 </div>
 
 ---
+
+<h2 align="center">⬇️ Explore meus repositórios ⬇️</h2>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A1AFF&height=110&section=footer"/>
