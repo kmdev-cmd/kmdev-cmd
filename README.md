@@ -12,7 +12,6 @@
 |--------|-----------|
 | 📥 **PDFinder** | Buscador de PDFs gratuitos, rápido e simples. |
 | 🧪 **Rhodium** | Ferramenta versátil para automatizar tarefas. |
-| ☕ **Clarity** | Sistema pessoal de produtividade e organização. |
 
 ---
 
