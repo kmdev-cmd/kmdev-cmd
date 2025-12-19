@@ -17,9 +17,6 @@ Clean | Animated | Focused
 
 <br><br>
 
-<a href="https://app.daily.dev/kmdev56">
-  <img src="https://api.daily.dev/devcards/v2/P06Ts8HK60o9AunJGbDWQ.png?r=6zo&type=wide" width="520"/>
-</a>
 
 </div>
 
@@ -46,14 +43,13 @@ Django em progresso • Figma básico • PySide6 • Selenium • BeautifulSoup
 ## Projetos
 
 - **PDFinder** — buscador rápido de PDFs gratuitos  
-- **Rhodium** — automação de tarefas no PC  
+- **Rhodium** — maior praticidade em tarefas no PC (Sistema de dados não conectado)
 
 ---
 
 ## Estudando agora
-- HTML & CSS (intermediário)  
-- Django & Flask  
-- Kotlin (mobile)  
+- HTML, CSS & JS (intermediário)  
+- Django & Flask    
 
 ---
 
@@ -66,16 +62,6 @@ Django em progresso • Figma básico • PySide6 • Selenium • BeautifulSoup
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/586608984560238595)
 
 </div>
-
----
-
-<details>
-<summary>☕ Apoiar</summary>
-
-PIX: https://pixgg.com/Mxlsc  
-Ou só manda um “valeu” 😄
-
-</details>
 
 ---
 
