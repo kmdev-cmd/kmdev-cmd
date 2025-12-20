@@ -7,7 +7,7 @@ Clean | Professional | Focused
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A1AFF&height=110&section=header"/>
 
 <div align="center">
-
+<br><br>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&typeSpeed=40&pause=400&color=0A1AFF&center=true&vCenter=true&width=700&lines=KmDev;Python+Developer;Automation+%7C+Backend+in+Progress" />
 </a>
@@ -57,6 +57,7 @@ Clean | Professional | Focused
     <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=kmdev-cmd&bg_color=282c34&color=0A1AFF&line=0A1AFF&point=FFFFFF&area=true&hide_border=true"
   />
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68f7e65d32ad652bc88ca006?variant=dark&roadmaps=python%2Cgit-github" alt="roadmap.sh"/></a>
 </p>
 
 
