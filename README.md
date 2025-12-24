@@ -41,15 +41,24 @@ Sempre aprendendo e evoluindo.
 
 ## Projetos em destaque
 
-- **PDFinder** — Buscador rápido e eficiente de PDFs gratuitos
-- **Rhodium** — Sistema local de automação e organização de tarefas no PC
+<div align="center">
+
+| Projeto | Descrição | Tech |
+|---------|-----------|------|
+| **[PDFinder](https://github.com/kmdev-cmd/PDF)** | Buscador rápido e eficiente de PDFs gratuitos (livros, apostilas, mangás) | Python + CSS |
+| **[Rhodium](https://github.com/kmdev-cmd/Rhodium)** | Sistema local (versão online desconectada) de automação e organização de tarefas no PC | HTML + Supabase |
+| **[kmdev-cmd.github.io](https://github.com/kmdev-cmd/kmdev-cmd.github.io)** | Portfólio pessoal com HTML, CSS e JavaScript – mostra habilidades e projetos | HTML/CSS/JS |
+| **[Task-Tracker-CLI](https://github.com/kmdev-cmd/Task-Tracker-CLI)** | Gerenciador de tarefas via linha de comando (projeto roadmap.sh) | Python |
+| **[AtabI](https://github.com/kmdev-cmd/AtabI)** | Bookmarklet que abre buscas do Google em modal sem sair da página | JavaScript |
+
+</div>
 
 ---
 
 ## Atualmente estudando
 
 - Django (backend web)
-- HTML, CSS e JavaScript (nível intermediário)
+- HTML, CSS e JavaScript 
 - Boas práticas, clean code e estruturação de projetos
 
 ---
@@ -68,7 +77,7 @@ Sempre aprendendo e evoluindo.
 
 <div align="center">
 
-Explore meus repositórios ↓
+[Veja meu portifólio completo](https://kmdev-cmd.github.io/)
 
 </div>
 
