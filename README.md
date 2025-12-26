@@ -45,7 +45,7 @@ Sempre aprendendo e evoluindo.
 
 | Projeto | Descrição | Tech |
 |---------|-----------|------|
-| **[PDFinder](https://github.com/kmdev-cmd/PDF)** | Buscador rápido e eficiente de PDFs gratuitos (livros, apostilas, mangás) | Python + CSS |
+| **[PDFinder](https://github.com/kmdev-cmd/PDF)** | Buscador rápido e eficiente de PDFs gratuitos (livros, apostilas, mangás) | Html + CSS + JS |
 | **[Rhodium](https://github.com/kmdev-cmd/Rhodium)** | Sistema local (versão online desconectada) de automação e organização de tarefas no PC | HTML + Supabase |
 | **[kmdev-cmd.github.io](https://github.com/kmdev-cmd/kmdev-cmd.github.io)** | Portfólio pessoal com HTML, CSS e JavaScript – mostra habilidades e projetos | HTML/CSS/JS |
 | **[Task-Tracker-CLI](https://github.com/kmdev-cmd/Task-Tracker-CLI)** | Gerenciador de tarefas via linha de comando (projeto roadmap.sh) | Python |
