@@ -2,8 +2,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=220&section=header&text=KmDev&fontSize=90&fontColor=ffffff&animation=twinkling"/>
 
 <div align="center">
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=35&duration=4000&pause=1000&color=0A1AFF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Python;Automação+e+Produtividade;Backend+com+Flask;Sempre+evoluindo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&duration=4000&pause=1000&color=0A1AFF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Python;Automação+e+Produtividade;Backend+com+Flask;Sempre+evoluindo" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -13,6 +14,10 @@
   </p>
 
   <br>
+
+  <!-- Visitor Badge - sempre carrega e é dinâmico -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kmdev-cmd.kmdev-cmd&format=flat&color=0A1AFF" alt="Visitors" />
+
 </div>
 
 ---
@@ -37,38 +42,31 @@ Sempre aprendendo e construindo soluções úteis 🚀
 ---
 <div align="center">
 
-## GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmdev-cmd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmdev-cmd&layout=compact&theme=dracula&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kmdev-cmd&theme=dracula&hide_border=true"/>
-
-</div>
-
----
-<div align="center">
-
 ## Projetos em destaque
 
-[![Serpentia](https://github-readme-stats.vercel.app/api/pin/?username=kmdev-cmd&repo=Serpentia&theme=dracula&hide_border=true)](https://github.com/kmdev-cmd/Serpentia)
-[![Rhodium](https://github-readme-stats.vercel.app/api/pin/?username=kmdev-cmd&repo=Rhodium&theme=dracula&hide_border=true)](https://github.com/kmdev-cmd/Rhodium)
-[![Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=kmdev-cmd&repo=kmdev-cmd.github.io&theme=dracula&hide_border=true)](https://github.com/kmdev-cmd/kmdev-cmd.github.io)
-[![Task-Tracker-CLI](https://github-readme-stats.vercel.app/api/pin/?username=kmdev-cmd&repo=Task-Tracker-CLI&theme=dracula&hide_border=true)](https://github.com/kmdev-cmd/Task-Tracker-CLI)
-[![PDFinder](https://github-readme-stats.vercel.app/api/pin/?username=kmdev-cmd&repo=PDF&theme=dracula&hide_border=true)](https://github.com/kmdev-cmd/PDF)
-[![AtabI](https://github-readme-stats.vercel.app/api/pin/?username=kmdev-cmd&repo=AtabI&theme=dracula&hide_border=true)](https://github.com/kmdev-cmd/AtabI)
-
-</div>
-
----
-<div align="center">
-
-## Contribution Snake 🍎
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmdev-cmd/kmdev-cmd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmdev-cmd/kmdev-cmd/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kmdev-cmd/kmdev-cmd/output/github-contribution-grid-snake.svg">
-</picture>
+<a href="https://github.com/kmdev-cmd/Serpentia">
+  <img src="https://img.shields.io/badge/Serpentia-Laboratório_Interativo_Python-0A1AFF?style=for-the-badge&logo=github" alt="Serpentia" />
+</a>
+<br><br>
+<a href="https://github.com/kmdev-cmd/Rhodium">
+  <img src="https://img.shields.io/badge/Rhodium-Automação_e_Organização-0A1AFF?style=for-the-badge&logo=github" alt="Rhodium" />
+</a>
+<br><br>
+<a href="https://github.com/kmdev-cmd/kmdev-cmd.github.io">
+  <img src="https://img.shields.io/badge/Portfólio_Pessoal-HTML_CSS_JS-0A1AFF?style=for-the-badge&logo=github" alt="Portfólio" />
+</a>
+<br><br>
+<a href="https://github.com/kmdev-cmd/Task-Tracker-CLI">
+  <img src="https://img.shields.io/badge/Task_Tracker_CLI-Gerenciador_Python-0A1AFF?style=for-the-badge&logo=github" alt="Task-Tracker-CLI" />
+</a>
+<br><br>
+<a href="https://github.com/kmdev-cmd/PDF">
+  <img src="https://img.shields.io/badge/PDFinder-Buscador_PDFs-0A1AFF?style=for-the-badge&logo=github" alt="PDFinder" />
+</a>
+<br><br>
+<a href="https://github.com/kmdev-cmd/AtabI">
+  <img src="https://img.shields.io/badge/AtabI-Bookmarklet_JS-0A1AFF?style=for-the-badge&logo=github" alt="AtabI" />
+</a>
 
 </div>
 
