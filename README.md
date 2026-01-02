@@ -53,6 +53,10 @@ Sempre aprendendo e evoluindo.
 
 </div>
 
+## Projetos recentes
+<!-- START_SECTION:projects -->
+<!-- END_SECTION:projects -->
+
 ---
 
 ## Atualmente estudando
