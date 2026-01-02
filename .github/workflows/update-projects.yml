@@ -1,0 +1,20 @@
+name: Update Recent Projects
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Roda todo dia à meia-noite
+  workflow_dispatch:  # Permite rodar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update README with recent projects
+        uses: kaustubhgupta/readme-projects-display@master
+        with:
+          gh_token: ${{ secrets.GH_PAT }}  # Token pessoal (veja abaixo)
+          readme_path: README.md
+          max_projects: 6  # Quantos projetos mostrar
+          sort_by: updated  # Ou 'stars' para por popularidade
+          exclude_repos: kmdev-cmd/kmdev-cmd  # Exclua o próprio perfil se quiser
