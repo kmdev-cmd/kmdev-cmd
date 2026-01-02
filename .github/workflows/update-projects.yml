@@ -1,0 +1,18 @@
+name: Update Recent Projects
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Todo dia
+  workflow_dispatch:   # Manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update recent repos
+        uses: Readme-Workflows/recent-repos@main  # Ou busque uma atual, mas teste essa
+        with:
+          username: kmdev-cmd
+          count: 6
+          token: ${{ secrets.GH_PAT }}
