@@ -1,98 +1,140 @@
-<!-- Professional README com Ondas Animadas — KmDev | Blue Waves -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=220&section=header&text=KmDev&fontSize=90&fontColor=ffffff&animation=twinkling"/>
+<!-- KmDev — Minimal Linux Developer Profile -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=170&section=header&text=KmDev&fontSize=76&fontColor=ffffff"/>
 
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&duration=4000&pause=1000&color=0A1AFF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Python;Automação+e+Produtividade;Backend+com+Flask;Sempre+evoluindo" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&pause=1000&color=0A1AFF&center=true&vCenter=true&width=900&lines=python+developer;linux+power+user;automation+%26+backend+with+flask" />
+</a>
 
-  <br><br>
+Desenvolvedor Python • Linux • Automação & Backend
 
-  <p>
-    <strong>Estudante • Programador Python • Soluções práticas e automação</strong>
-  </p>
+</div>
 
-  <br>
 
-  <!-- Visitor Badge - sempre carrega e é dinâmico -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kmdev-cmd.kmdev-cmd&format=flat&color=0A1AFF" alt="Visitors" />
+
+<div align="center">
+
+```
+whoami
+kmdev
+
+stack
+python | flask | linux | cli
+```
+
+</div>
+
+
+<div align="center">
+
+## Áreas
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### Linux / CLI
+Scripts  
+Dotfiles  
+Workflow customizado  
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Python
+Automação  
+Ferramentas CLI  
+Utilitários  
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Backend
+Flask  
+REST APIs  
+Auth & lógica  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+<div align="center">
+
+## Stack
+
+<img src="https://skillicons.dev/icons?i=linux,python,flask,bash,git,github,html,css,js,postgresql,supabase&perline=11&theme=dark" />
+
+</div>
+
+
+
+<div align="center">
+
+## Projetos
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### Serpentia
+Laboratório interativo para aprendizado  
+e experimentação em Python.
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### Rhodium
+Ferramentas de automação  
+e organização pessoal.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+
+### Task Tracker CLI
+Gerenciador de tarefas  
+via terminal.
+
+</td>
+<td align="center" valign="top">
+
+### PDFinder
+Buscador inteligente  
+de PDFs acadêmicos.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+<div align="center">
+
+## GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=kmdev-cmd&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0A1AFF&icon_color=0A1AFF" />
 
 </div>
 
 ---
+
 <div align="center">
 
-## Sobre mim
-Desenvolvedor apaixonado por **Python** e **automação de processos**.  
-Crio ferramentas eficientes para eliminar tarefas repetitivas e aumentar produtividade.  
-Em crescimento no **backend com Flask**, focado em projetos reais e clean code.  
-Sempre aprendendo e construindo soluções úteis 🚀
+
+
+Portfólio  
+https://kmfolio.netlify.app/
 
 </div>
 
----
-<div align="center">
-
-## Tecnologias
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,bash,git,github,vscode&perline=9&theme=dark" />
-
-</div>
-
----
-<div align="center">
-
-## Projetos em destaque
-
-<a href="https://github.com/kmdev-cmd/Serpentia">
-  <img src="https://img.shields.io/badge/Serpentia-Laboratório_Interativo_Python-0A1AFF?style=for-the-badge&logo=github" alt="Serpentia" />
-</a>
-<br><br>
-<a href="https://github.com/kmdev-cmd/Rhodium">
-  <img src="https://img.shields.io/badge/Rhodium-Automação_e_Organização-0A1AFF?style=for-the-badge&logo=github" alt="Rhodium" />
-</a>
-<br><br>
-<a href="https://github.com/kmdev-cmd/kmdev-cmd.github.io">
-  <img src="https://img.shields.io/badge/Portfólio_Pessoal-HTML_CSS_JS-0A1AFF?style=for-the-badge&logo=github" alt="Portfólio" />
-</a>
-<br><br>
-<a href="https://github.com/kmdev-cmd/Task-Tracker-CLI">
-  <img src="https://img.shields.io/badge/Task_Tracker_CLI-Gerenciador_Python-0A1AFF?style=for-the-badge&logo=github" alt="Task-Tracker-CLI" />
-</a>
-<br><br>
-<a href="https://github.com/kmdev-cmd/PDF">
-  <img src="https://img.shields.io/badge/PDFinder-Buscador_PDFs-0A1AFF?style=for-the-badge&logo=github" alt="PDFinder" />
-</a>
-<br><br>
-<a href="https://github.com/kmdev-cmd/AtabI">
-  <img src="https://img.shields.io/badge/AtabI-Bookmarklet_JS-0A1AFF?style=for-the-badge&logo=github" alt="AtabI" />
-</a>
-
-</div>
-
----
-<div align="center">
-
-## Atualmente estudando
-- Flask & Backend Web
-- JavaScript avançado
-- Clean Code, arquitetura e boas práticas
-
-</div>
-
----
-<div align="center">
-
-## Contato
-
-[![Email](https://img.shields.io/badge/kmdev.cmd@gmail.com-0A1AFF?style=flat&logo=gmail&logoColor=white)](mailto:kmdev.cmd@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5513974140538)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/586608984560238595)
-
-<br><br>
-
-[Portfólio completo 🌐](https://kmdev-cmd.github.io/)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=220&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=170&section=footer"/>
