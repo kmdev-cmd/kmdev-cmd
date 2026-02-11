@@ -1,11 +1,11 @@
 <!-- KmDev — Minimal Linux Developer Profile -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=170&section=header&text=KmDev&fontSize=76&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=170&section=header&text=KmDev&fontSize=76&fontColor=ffffff"/>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&pause=1000&color=0A1AFF&center=true&vCenter=true&width=900&lines=python+developer;linux+power+user;automation+%26+backend+with+flask" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&pause=1000&color=FF7A00&center=true&vCenter=true&width=900&lines=python+developer;linux+power+user;automation+%26+backend+with+flask" />
 </a>
 
 Desenvolvedor Python • Linux • Automação & Backend
@@ -137,4 +137,4 @@ https://kmfolio.netlify.app/
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=170&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=170&section=footer"/>
