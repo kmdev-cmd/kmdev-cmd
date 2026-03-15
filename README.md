@@ -1,6 +1,6 @@
 <!-- KmDev — Minimal Linux Developer Profile -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=170&section=header&text=KmDev&fontSize=76&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffb76e&height=170&section=header&text=KmDev&fontSize=76&fontColor=ffffff"/>
 
 <div align="center">
 
@@ -137,4 +137,4 @@ https://kmfolio.netlify.app/
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=170&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffb76e&height=170&section=footer"/>
