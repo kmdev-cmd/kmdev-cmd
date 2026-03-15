@@ -122,7 +122,7 @@ de PDFs acadêmicos.
 
 ## GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=kmdev-cmd&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0A1AFF&icon_color=0A1AFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=kmdev-cmd&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffb76e&icon_color=ffb76e" />
 
 </div>
 
