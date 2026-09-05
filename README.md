@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://klcom.netlify.app/">portfolio</a> ·
   <a href="https://discord.com/">discord</a> ·
-  <a href="mailto:kyxenpi@proton.me">whatsapp</a>
+  <a href="https://wa.me/+5513974140538">whatsapp</a>
 </p>
 
 ---
